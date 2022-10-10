@@ -1,0 +1,15 @@
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level3\WhatComesNext\bin\Debug\net6.0\WhatComesNext.exe
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level3\WhatComesNext\bin\Debug\net6.0\WhatComesNext.deps.json
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level3\WhatComesNext\bin\Debug\net6.0\WhatComesNext.runtimeconfig.json
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level3\WhatComesNext\bin\Debug\net6.0\WhatComesNext.dll
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level3\WhatComesNext\bin\Debug\net6.0\WhatComesNext.pdb
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level3\WhatComesNext\obj\Debug\net6.0\WhatComesNext.csproj.AssemblyReference.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level3\WhatComesNext\obj\Debug\net6.0\WhatComesNext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level3\WhatComesNext\obj\Debug\net6.0\WhatComesNext.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level3\WhatComesNext\obj\Debug\net6.0\WhatComesNext.AssemblyInfo.cs
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level3\WhatComesNext\obj\Debug\net6.0\WhatComesNext.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level3\WhatComesNext\obj\Debug\net6.0\WhatComesNext.dll
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level3\WhatComesNext\obj\Debug\net6.0\refint\WhatComesNext.dll
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level3\WhatComesNext\obj\Debug\net6.0\WhatComesNext.pdb
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level3\WhatComesNext\obj\Debug\net6.0\WhatComesNext.genruntimeconfig.cache
+C:\Users\marcu\Desktop\Skola\Players_Guide\Level3\WhatComesNext\obj\Debug\net6.0\ref\WhatComesNext.dll
